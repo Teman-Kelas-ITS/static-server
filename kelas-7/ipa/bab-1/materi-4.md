@@ -1,28 +1,17 @@
-# Ilmu Pengetahuan Alam
-## Zat dan Perubahannya  
-### Wujud Zat dan Model Partikel
+Ilmu Pengetahuan Alam
+Zat dan Perubahannya  
+Wujud Zat dan Model Partikel
 <|SEPARATOR|>
-Masih ingatkah kalian mengenai penggolongan benda menjadi benda padat, cair, gas saat kalian di SD? Pembagian benda tersebut adalah berdasarkan wujudnya. Di tingkatan SMP, semua benda kita kenal sebagai materi.
+Murid memahami definisi kerapatan zat (yang juga dikenal sebagai massa jenis, ρ) sebagai besaran turunan yang mengukur perbandingan massa (m) per satuan volume (V).
 <|SEPARATOR|>
-### Pertanyaan
-Apa itu materi? Mengapa jam dinding disebut materi? Apakah udara termasuk materi?
+Murid mampu menerapkan rumus massa jenis (ρ=m/v) untuk menyelesaikan perhitungan sederhana.
 <|SEPARATOR|>
-Setelah mengetahui apa itu materi, kita akan gunakan istilah materi untuk menunjukkan benda-benda. Menurut wujudnya, materi dibedakan atas zat padat, zat cair, dan gas. Kalian telah mempelajari topik ini saat SD. Pasti kalian masih ingat keunikan air karena kita dapat melihat dalam tiga wujud yang berbeda, yaitu es sebagai zat padat, air sebagai zat cair, dan uap air sebagai wujud gas.
+Murid mampu menjelaskan prosedur menentukan massa jenis benda padat yang bentuknya teratur (mengukur massa dan menghitung volume).
 <|SEPARATOR|>
-### Pertanyaan
-Namun tahukah kalian mengapa zat padat umumnya keras, sulit berubah bentuk, dan tidak mudah ditekan? Atau mengapa zat cair dapat berubah bentuk sesuai wadahnya? Dan mengapa gas adalah materi yang paling mudah ditekan? 
+Murid mampu menjelaskan prosedur menentukan massa jenis benda padat tidak beraturan (mengukur massa dan mengukur volume menggunakan gelas ukur atau gelas berpancur).
 <|SEPARATOR|>
-Perbedaan sifat antara tiga wujud zat ini dapat dijelaskan melalui model partikel. Model biasanya digunakan oleh ilmuwan untuk menjelaskan mengenai sesuatu yang sangat kecil, yang tidak dapat dilihat agar dapat dipahami cara kerjanya. Sementara partikel adalah bagian terkecil yang ada dalam materi. Partikel-partikel yang ada dalam materi ini selalu bergerak dan ada tarikan antara partikel yang satu dengan partikel lainnya. Nah, ternyata keadaan partikel-partikel dalam zat padat, zat cair, dan gas berbeda-beda.  
+Murid mampu memprediksi apakah suatu benda akan Mengapung (jika massa jenis benda < massa jenis cairan) atau Tenggelam (jika massa jenis benda > massa jenis cairan).
 <|SEPARATOR|>
-Pernahkah kalian mencium aroma kopi dari kamar kalian padahal ayah kalian yang minum kopi sedang berada di ruang tamu? Atau kalian baru pulang sekolah, tercium aroma masakan ibu kalian dari dapur sehingga kalian langsung merasa lapar. Kakak kalian yang hendak pergi menyemprotkan parfum di kamarnya tapi kalian dapat menciumnya padahal kalian berada di ruangan yang berbeda. Pernahkah hal itu terjadi pada kalian?  
+Murid mampu menjelaskan contoh penerapan konsep massa jenis dalam kehidupan sehari-hari.
 <|SEPARATOR|>
-Aroma kopi, aroma masakan, parfum, dan bau-bauan lainnya dibawa oleh udara, yang merupakan partikel gas, untuk sampai pada indera penciuman kalian. Ingatlah bahwa partikel gas bergerak secara acak, dapat bertabrakan (atau bertumbukan), dan sangat cepat sehingga bau-bau tersebut dapat kalian rasakan walaupun jarak kalian cukup jauh dengan sumber bau. Proses ini disebut difusi.  
-<|SEPARATOR|>
-Difusi adalah pergerakan partikel dari daerah yang partikelnya lebih banyak ke tempat yang lebih sedikit sampai keadaannya seimbang. Ketika partikel saling bertumbukan maka bau menjadi menyebar karena bercampur dengan partikel lainnya. Difusi juga terjadi pada zat cair karena partikel-partikel dalam zat cair dapat bergerak.  
-<|SEPARATOR|>
-### Pertanyaan
-Apakah difusi terjadi lebih cepat dalam cairan atau gas? Jelaskan
-<|SEPARATOR|>
-Tahukah kalian bagaimana cara kita mencium aroma masakan ibu atau aroma parfum, bahkan bau dari tumpukan sampah? Aroma dan bau-bauan masuk melalui rongga hidung atau nostril saat kita bernapas. Aroma dan bau-bauan tadi kemudian masuk melalui rambut-rambut halus atau silia yang ada di ujung saraf pembau. Aroma dan bau-bauan itu melalui saraf disalurkan ke otak sehingga kita mengetahui bau tersebut.
-<|SEPARATOR|>
-<|DONE|>
+</end>
